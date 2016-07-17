@@ -1,4 +1,4 @@
-# Projetos (IOS + Swift)
+# Projects (IOS + Swift)
 
 <a href="https://github.com/rudsonlive/companies-ios"># Project Companies</a><br>
 <img src="https://github.com/rudsonlive/companies-ios/blob/master/Image/image_companies.png"><br>
@@ -6,7 +6,7 @@
 <a href="https://github.com/rudsonlive/maps-ios"># Project Maps</a><br>
 <img src="https://github.com/rudsonlive/maps-ios/blob/master/Image/image_maps.png"><br>
 
-# Foi utilizado para o desenvolvimento
+# It was used to develop
   - XCode Version 7.3.1 (7D1014)
   - Apple Swift version 2.2
 
