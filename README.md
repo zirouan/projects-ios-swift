@@ -6,8 +6,8 @@
 <a href="https://github.com/rudsonlive/maps-ios"># Project Maps</a><br>
 <img src="https://github.com/rudsonlive/maps-ios/blob/master/Image/image_maps.png"><br>
 
-<a href="https://github.com/rudsonlive/autolayout-ios"># Project Auto Layout</a><br>
-<img src="https://github.com/rudsonlive/autolayout-ios/blob/master/Image/image_auto_layout.png"><br>
+<a href="https://github.com/rudsonlive/rounded-image-ios"># Project Rounded Image</a><br>
+<img src="https://github.com/rudsonlive/rounded-image-ios/blob/master/Image/image_rounded.png"><br>
 
 # It was used to develop
   - XCode Version 7.3.1 (7D1014)
