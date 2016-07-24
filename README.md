@@ -12,6 +12,9 @@
 <a href="https://github.com/rudsonlive/rounded-image-ios"># Project Rounded Image</a><br>
 <img src="https://github.com/rudsonlive/rounded-image-ios/blob/master/Image/image_rounded.png"><br>
 
+<a href="https://github.com/rudsonlive/alamofire-for-networking-ios"># Sample with Alamofire</a><br>
+<img src="https://github.com/rudsonlive/alamofire-for-networking-ios/blob/master/Image/image_rounded.png"><br>
+
 # It was used to develop
   - XCode Version 7.3.1 (7D1014)
   - Apple Swift version 2.2
